@@ -1,0 +1,22 @@
+{
+  "name" : "costsrl/cost-form-element",
+  "description" : "Navigation based on Laminas ",
+  "require" : {
+    "php" : ">=7.0"
+  },
+  "license" : "BSD-3-Clause",
+  "keywords" : [ "zf2", "cost-form-elements" ],
+  "minimum-stability" : "dev",
+  "autoload" : {
+    "psr-4" : {
+      "CostFormElement\\" : "src/"
+    }
+  },
+  "type" : "library",
+  "homepage" : "http://www.cost.it",
+  "authors" : [ {
+    "name" : "Renato Salvatori",
+    "email" : "renato.s@cost.it",
+    "role" : "Developer"
+  } ]
+}
